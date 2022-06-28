@@ -1,2 +1,2 @@
-# Data Science
-Archivos realizados duante el curso de Data Science en Coder House
+# Proyecto final del curso Data Science de CoderHouse
+Determinar si un cliente con determinadas características pagará o no el préstamo.
